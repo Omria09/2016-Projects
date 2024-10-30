@@ -13,7 +13,7 @@ A simple recreation of the classic Flappy Bird game. In this project, you contro
 
 **Features:**
 
-- Basic physics for realistic player movement.
+- Basic physics for gravitation.
 - Dynamic obstacle generation for engaging gameplay.
 - Scoring system to track and display player progress.
 
